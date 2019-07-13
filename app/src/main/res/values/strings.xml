@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Uber</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_direction_key">AIzaSyB1DAuhPIiqNvcjMjhUXW2lHocLlklQuy0</string>
+    <string name="title_activity_rider_maps">Map</string>
+    <string name="title_activity_home">Home</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_driver_tracking">Map</string>
+    <string name="title_activity_driver_home">DriverHome</string>
+    <string name="title_activity_trip_detail">Map</string>
+
+
+    <string name="FACEBOOK_APP_ID">871505649717237</string>
+    <string name="ACCOUNT_KIT_CLIENT_TOKEN">df03e44000f4904425596823e98c90a3</string>
+
+
+</resources>
